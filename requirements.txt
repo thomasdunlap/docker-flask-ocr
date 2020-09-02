@@ -1,0 +1,13 @@
+pdftotext==2.1.5
+certifi==2020.6.20
+Click==7.1.2
+Flask==1.1.2
+gunicorn==20.0.4
+itsdangerous==1.1.2
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.19.1
+werkzeug==1.0.1
+#pillow==7.2.0
+#pytesseract==0.3.5
+#opencv-python==4.4.0.42
